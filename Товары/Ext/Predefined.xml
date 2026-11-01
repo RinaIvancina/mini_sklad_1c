@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.20">
+	<Item id="52e94d9f-861f-4e90-b8f8-91fa4dbb69d8">
+		<Name>БытоваяТехника</Name>
+		<Code>000000002</Code>
+		<Description>Бытовая техника</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="8fe06e60-c795-4441-bd65-ea3eff1326cd">
+		<Name>Электроника</Name>
+		<Code>000000001</Code>
+		<Description>Электроника</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+</PredefinedData>
